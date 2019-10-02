@@ -1,12 +1,12 @@
 <?php
-
+	
 	$product = [
-		'itemId'   => '12341822',
+		'itemId'   => '69696969',
 		'itemName' => 'basic t-shirt',
-		'price'    => 70000,
+		'price'    => 60000,
 		'availableColorAndSize' => [
 			[
-				'color' => 'red',
+				'color' => 'pink',
 				'size'  => ['S', 'M', 'L']
 			],
 			[
