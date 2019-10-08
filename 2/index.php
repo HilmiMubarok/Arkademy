@@ -9,14 +9,14 @@
 		<label>Username</label> <br>
 		<input type="text" name="username"> <br>
 
-		<button type="submit" name="btn-submit">
+		<button type="submit" name="submit">
 			Submit
 		</button>
 	</form>
 
 	<?php
 		
-		if (isset($_POST['btn-submit'])) {
+		if (isset($_POST['submit'])) {
 
 			function validate($value)
 			{

@@ -15,9 +15,7 @@
 		<?php
 
 			$conn = new mysqli("localhost", "root", "", "db_product");
-
-			$sql  = "SELECT * FROM product_categories";
-
+			$sql  = "SELECT * FROM product_categories"; //ambil data kategori produk
 			$res = $conn->query($sql);
 
 			while ($rows = $res->fetch_object()) : ?>
