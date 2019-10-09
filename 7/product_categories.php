@@ -8,13 +8,13 @@
 
 <div class="collapse text-center mt-5" id="ProductsCategories">
 	<div class="card text-white bg-danger mb-3">
-		<div class="card-header">Product Categories</div>
+		<div class="card-header">Kategori Produk</div>
 		<div class="card-body">
 			<table class="table table-hover">
 				<thead>
 					<tr>
 						<th>No.</th>
-						<th>Name</th>
+						<th>Nama</th>
 					</tr>
 				</thead>
 				<tbody>
